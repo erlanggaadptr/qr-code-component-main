@@ -46,4 +46,9 @@ main {
 .card h1 {
   margin-bottom: 20px;
   font-size: 1.25rem;
+  color: var(--dark-blue);
+}
+
+.card p {
+  color: var(--grayish-blue)
 }
