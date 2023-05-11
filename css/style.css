@@ -47,8 +47,10 @@ main {
   margin-bottom: 20px;
   font-size: 1.25rem;
   color: var(--dark-blue);
+  font-weight: 700;
 }
 
 .card p {
-  color: var(--grayish-blue)
+  color: var(--grayish-blue);
+  font-weight: 400;
 }
